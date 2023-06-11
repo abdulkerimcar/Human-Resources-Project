@@ -1,6 +1,7 @@
 The project encompasses three roles: Site Administrator, Company Manager, and Employee, implemented using the Identity framework.
 ![1](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/d0dd3ffd-bf19-49ab-bb90-c3507a8549da)
 
+
 When employees log in, they have the ability to submit advance, leave, and expense request forms to their Company Manager.
 
 ![2](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/627ec168-1f6f-4153-a7f8-6c74fad4c514)
