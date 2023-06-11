@@ -1,20 +1,18 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+The project encompasses three roles: Site Administrator, Company Manager, and Employee, implemented using the Identity framework.
+![1](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/d0dd3ffd-bf19-49ab-bb90-c3507a8549da)
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+When employees log in, they have the ability to submit advance, leave, and expense request forms to their Company Manager.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+![2](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/627ec168-1f6f-4153-a7f8-6c74fad4c514)
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+![3](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/0dcc13b4-ff33-4a70-8530-bd00891fd923)
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+![4](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/e8294121-06e8-41fa-9805-d14e22f9ca64)
+
+Upon logging in as the Site Administrator, one can add company managers and companies to the system, while maintaining control over their information. As the Company Manager, one can add employees and exercise control over their leave requests, advances, and expenses within their respective company. 
+
+![5](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/e8d7c3f1-8d1b-4330-893c-e302b3c1bade)
+
+![6](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/7ce38dcb-e125-46b6-8b09-6cd5353073f2)
+
+![7](https://github.com/abdulkerimcar/Human-Resources-Project/assets/119038059/5cec037f-60f6-4070-b4f5-429867c5b7dc)
